@@ -119,3 +119,11 @@
 [07:59:18] [Server thread/INFO]: ulvm issued server command: /seed
 [08:12:00] [Server thread/INFO]: ulvm has made the advancement [Isn't It Iron Pick]
 [08:15:59] [Server thread/INFO]: ulvm has made the advancement [Diamonds!]
+[08:18:11] [Server thread/INFO]: moisesesdem21 has made the advancement [Isn't It Iron Pick]
+[08:18:38] [Server thread/INFO]: ulvm has made the advancement [Suit Up]
+[08:19:23] [Server thread/INFO]: moisesesdem21 has made the advancement [Suit Up]
+[08:21:18] [Server thread/INFO]: moisesesdem21 was slain by Zombie
+[08:21:30] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
+[08:21:30] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
+[08:21:48] [Server thread/INFO]: Villager Villager['Villager'/11193, uuid='5eba4291-841d-403c-9fec-bf9be581a55e', l='ServerLevel[world]', x=1803.30, y=66.50, z=692.59, cpos=[112, 43], tl=21570, v=true] died, message: 'Villager suffocated in a wall'
+[08:25:20] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> 1626 -35 745

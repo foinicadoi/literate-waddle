@@ -103,3 +103,17 @@
 [07:49:44] [Server thread/INFO]: Made ulvm a server operator
 [07:49:57] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
 [07:49:57] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.5463109100712131
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 1.397839731682467
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 2.2689928319316266
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 3.1589526574223328
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.6240556036125042
+[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.5426686903844598
+[07:58:07] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
+[07:58:07] [Server thread/INFO]: moisesesdem21 left the game
+[07:58:11] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[07:58:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f13afb[id=188290df-d3dd-39f3-aea4-3e50b30e122b,name=moisesesdem21,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc0NTU2NjA3MzE5OCwKICAicHJvZmlsZUlkIiA6ICJlNTI5N2E3M2ZhZjk0ODlkODJiMjVlMTkxMThkODYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYWNoZWNvQ2FyYUZsb2phIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNmVlMzI4ZTMyZjAxODI3ZjlhMWJlZmYzMWVlOGQxYzU4NDQyOWVkZTUxYjI0M2U1YjY5M2Q4MmU3M2M4ZjkiCiAgICB9CiAgfQp9, signature=pjWREkvRgimpCbeKS85tHKOys9LHRCpLV4mFsKm8uhzeNpQSFvfnohwvPEUcHCo9IJPBqqFpuwfdm73lVqb1xDZ+dHSzLum1dsL1WvffhlJ56hN/Qo5sGYFd95fn73VcfuGQ83xmFPeZik2l9eMxEjBrqSgsnzc7gYVDuHLfCVac4TM1E+VItklCi48hc2APK4B4mEQx1m+PhdQwN3jFNDG8RJ3AcztkLA/5ZUvlCkdbQiFrUgBZTRozvkggBWzm0f6q4VIJbL16/olKQ1B53azVp8tOJAhWV6i8ZjXcQ0sV0QOD0hM/VUhyoQmEFc4SwQ4B4dOzRUF9OzBVcIioFeih0x1FHiXW5qOkBAcPbFzDkYIpVP2+LH+bKMt1RL3dVAv0vXy88Kp5QWMF7yOr/a8Df8Mc3mWDo+ttRd2EnVF0FItZI56j8IFgK6tVveGCDEYtR76Nh2ef9bNYbDefH0KtPO6yBKJnUkJc3jzvaNkRbJ5966HmRrc4a72O5W89wmoxKIMM1Nn66qC5rrvgnYRC89myfC4QejW/e/dV+zQhIG+prf0ueDevVwv6gAwKzAQPCQ69eVqFYCs6rxEAIGLppRIu/W/7eJZZsdRwv6aIQ1RXrUwgAFvlY0vcxVhoC76Pij0Vy5u0qep92gVMMdiqTAjYs0AZaK55AeBOcWU=]]}] lost connection: Disconnected
+[07:58:15] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[07:58:16] [Server thread/INFO]: moisesesdem21 joined the game
+[07:58:16] [Server thread/INFO]: moisesesdem21[/127.104.144.149:47589] logged in with entity id 8500 at ([world]1125.6875, 62.5875, -157.9038809431841)
+[07:59:18] [Server thread/INFO]: ulvm issued server command: /seed

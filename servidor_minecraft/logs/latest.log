@@ -99,3 +99,7 @@
 [07:47:05] [User Authenticator #3/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
 [07:47:06] [Server thread/INFO]: moisesesdem21 joined the game
 [07:47:06] [Server thread/INFO]: moisesesdem21[/127.104.144.149:60335] logged in with entity id 4113 at ([world]144.39795667196628, 68.0, 82.59586207949329)
+[07:49:23] [Server thread/INFO]: moisesesdem21 froze to death
+[07:49:44] [Server thread/INFO]: Made ulvm a server operator
+[07:49:57] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
+[07:49:57] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]

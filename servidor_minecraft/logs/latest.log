@@ -136,3 +136,32 @@
 [08:47:41] [Server thread/INFO]: moisesesdem21 has made the advancement [Cover Me with Diamonds]
 [08:51:53] [Server thread/INFO]: ulvm has made the advancement [Ice Bucket Challenge]
 [08:57:46] [Server thread/INFO]: ulvm has made the advancement [We Need to Go Deeper]
+[09:00:05] [Server thread/INFO]: moisesesdem21 has made the advancement [We Need to Go Deeper]
+[09:03:50] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
+[09:03:50] [Server thread/INFO]: moisesesdem21 left the game
+[09:03:52] [Server thread/INFO]: ulvm lost connection: Disconnected
+[09:03:52] [Server thread/INFO]: ulvm left the game
+[09:04:09] [Server thread/INFO]: Stopping the server
+[09:04:09] [Server thread/INFO]: Stopping server
+[09:04:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[09:04:09] [Server thread/INFO]: Saving players
+[09:04:09] [Server thread/INFO]: Saving worlds
+[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 29 block chunks, 63 entity chunks, 0 poi chunks in world 'world' in 0.14s
+[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 444 block chunks, 80 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
+[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

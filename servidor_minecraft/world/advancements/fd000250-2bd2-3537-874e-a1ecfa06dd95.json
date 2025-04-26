@@ -10,7 +10,9 @@
       "minecraft:snowy_slopes": "2025-04-25 07:37:48 +0000",
       "minecraft:forest": "2025-04-25 08:02:27 +0000",
       "minecraft:taiga": "2025-04-25 07:53:13 +0000",
+      "minecraft:sparse_jungle": "2025-04-26 04:18:51 +0000",
       "minecraft:river": "2025-04-25 08:04:11 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-26 04:19:25 +0000",
       "minecraft:snowy_plains": "2025-04-25 07:03:58 +0000",
       "minecraft:dripstone_caves": "2025-04-25 08:13:43 +0000",
       "minecraft:snowy_taiga": "2025-04-25 07:52:21 +0000",
@@ -19,6 +21,7 @@
       "minecraft:grove": "2025-04-25 07:47:52 +0000",
       "minecraft:swamp": "2025-04-26 04:15:49 +0000",
       "minecraft:windswept_hills": "2025-04-26 04:14:40 +0000",
+      "minecraft:windswept_savanna": "2025-04-26 04:19:05 +0000",
       "minecraft:plains": "2025-04-25 08:03:53 +0000",
       "minecraft:jagged_peaks": "2025-04-25 07:41:55 +0000"
     },
@@ -1681,15 +1684,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-04-26 04:15:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-26 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-26 03:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-26 04:15:15 +0000"
     },
     "done": true
   },
@@ -1699,9 +1708,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_black_wool": "2025-04-26 03:56:37 +0000"
+      "has_kelp": "2025-04-26 04:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-26 04:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-26 04:19:34 +0000"
     },
     "done": true
   },

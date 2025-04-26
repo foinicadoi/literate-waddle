@@ -640,7 +640,8 @@
       "bread": "2025-04-25 08:13:56 +0000",
       "cooked_chicken": "2025-04-25 08:05:49 +0000",
       "rotten_flesh": "2025-04-25 07:41:36 +0000",
-      "beef": "2025-04-26 03:33:52 +0000"
+      "beef": "2025-04-26 03:33:52 +0000",
+      "carrot": "2025-04-26 04:18:26 +0000"
     },
     "done": false
   },
@@ -1703,6 +1704,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-26 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-26 04:18:16 +0000"
     },
     "done": true
   },

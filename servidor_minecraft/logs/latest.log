@@ -147,3 +147,19 @@
 [04:17:35] [User Authenticator #2/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
 [04:17:37] [Server thread/INFO]: ulvm joined the game
 [04:17:37] [Server thread/INFO]: ulvm[/127.43.74.235:55323] logged in with entity id 11875 at ([world]2438.291801459256, 82.0, 1654.660735643673)
+[04:21:07] [Async Chat Thread - #18/INFO]: [Not Secure] <ulvm> estas en la aldea'
+[04:21:09] [Async Chat Thread - #18/INFO]: [Not Secure] <ulvm> ?
+[04:21:17] [Async Chat Thread - #18/INFO]: [Not Secure] <moisesesdem21> si, trae hierro
+[04:21:21] [Async Chat Thread - #18/INFO]: [Not Secure] <ulvm> me hare tp
+[04:21:24] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21
+[04:21:24] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
+[04:21:28] [Async Chat Thread - #18/INFO]: [Not Secure] <ulvm> no andaba minando
+[04:21:36] [Async Chat Thread - #18/INFO]: [Not Secure] <moisesesdem21> a
+[04:21:43] [Async Chat Thread - #20/INFO]: [Not Secure] <ulvm> estaba consiguiendo algas
+[04:21:49] [Async Chat Thread - #20/INFO]: [Not Secure] <moisesesdem21> para?
+[04:22:02] [Async Chat Thread - #20/INFO]: [Not Secure] <ulvm> hacer una granja con el spawner que encontre
+[04:22:10] [Async Chat Thread - #20/INFO]: [Not Secure] <moisesesdem21> durooo
+[04:23:02] [Server thread/INFO]: Villager Villager['Butcher'/14555, uuid='dbd055fa-9b5c-4330-8493-05cf04b070dd', l='ServerLevel[world_nether]', x=232.58, y=70.18, z=134.79, cpos=[14, 8], tl=72601, v=true] died, message: 'Butcher burned to death'
+[04:28:38] [Async Chat Thread - #21/INFO]: [Not Secure] <moisesesdem21> salte
+[04:28:44] [Async Chat Thread - #22/INFO]: [Not Secure] <ulvm> estoy en el nether
+[04:28:58] [Async Chat Thread - #21/INFO]: [Not Secure] <moisesesdem21> a concho

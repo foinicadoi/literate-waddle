@@ -615,7 +615,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-25 07:41:12 +0000",
       "minecraft:spider": "2025-04-26 03:27:48 +0000",
-      "minecraft:zombie": "2025-04-25 08:16:18 +0000"
+      "minecraft:zombie": "2025-04-25 08:16:18 +0000",
+      "minecraft:zombie_villager": "2025-04-26 03:36:41 +0000"
     },
     "done": false
   },
@@ -634,6 +635,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-25 08:01:50 +0000",
+      "apple": "2025-04-26 03:41:31 +0000",
       "bread": "2025-04-25 08:13:56 +0000",
       "cooked_chicken": "2025-04-25 08:05:49 +0000",
       "rotten_flesh": "2025-04-25 07:41:36 +0000",
@@ -1682,6 +1684,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-04-25 09:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-26 03:37:28 +0000"
     },
     "done": true
   },

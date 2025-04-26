@@ -616,6 +616,7 @@
       "minecraft:skeleton": "2025-04-25 07:41:12 +0000",
       "minecraft:spider": "2025-04-26 03:27:48 +0000",
       "minecraft:zombie": "2025-04-25 08:16:18 +0000",
+      "minecraft:creeper": "2025-04-26 05:12:22 +0000",
       "minecraft:drowned": "2025-04-26 04:15:36 +0000",
       "minecraft:zombie_villager": "2025-04-26 03:36:41 +0000"
     },
@@ -1692,6 +1693,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-04-26 04:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-26 05:08:55 +0000"
     },
     "done": true
   },

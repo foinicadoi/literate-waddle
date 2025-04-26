@@ -614,6 +614,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-25 07:41:12 +0000",
+      "minecraft:spider": "2025-04-26 03:27:48 +0000",
       "minecraft:zombie": "2025-04-25 08:16:18 +0000"
     },
     "done": false
@@ -635,7 +636,8 @@
       "cooked_porkchop": "2025-04-25 08:01:50 +0000",
       "bread": "2025-04-25 08:13:56 +0000",
       "cooked_chicken": "2025-04-25 08:05:49 +0000",
-      "rotten_flesh": "2025-04-25 07:41:36 +0000"
+      "rotten_flesh": "2025-04-25 07:41:36 +0000",
+      "beef": "2025-04-26 03:33:52 +0000"
     },
     "done": false
   },
@@ -1686,6 +1688,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-26 03:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-26 03:26:46 +0000"
     },
     "done": true
   },

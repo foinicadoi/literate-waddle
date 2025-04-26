@@ -179,3 +179,8 @@
 [04:39:36] [Async Chat Thread - #27/INFO]: [Not Secure] <moisesesdem21> ya
 [04:41:35] [Async Chat Thread - #29/INFO]: [Not Secure] <moisesesdem21> eto aldeano de ahora no quieren trabaja
 [04:45:26] [Async Chat Thread - #31/INFO]: [Not Secure] <ulvm> asd
+[04:51:51] [Server thread/INFO]: ulvm lost connection: Disconnected
+[04:51:51] [Server thread/INFO]: ulvm left the game
+[04:52:05] [User Authenticator #3/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[04:52:07] [Server thread/INFO]: ulvm joined the game
+[04:52:07] [Server thread/INFO]: ulvm[/127.43.74.235:53109] logged in with entity id 21030 at ([world]1623.300000011921, -35.0, 748.6999999880791)

@@ -1,167 +1,60 @@
-[07:17:32] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[07:17:32] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[07:17:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[07:17:32] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[07:17:34] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2044ms.
-[07:17:34] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[07:17:34] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[03:19:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[03:19:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[03:19:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[03:19:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[03:19:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.6.2)
-[07:17:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:17:41] [ServerMain/INFO]: Loaded 1290 recipes
-[07:17:41] [ServerMain/INFO]: Loaded 1399 advancements
-[07:17:41] [Server thread/INFO]: Starting minecraft server version 1.21
-[07:17:41] [Server thread/INFO]: Loading properties
-[07:17:41] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[07:17:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[07:17:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[07:17:42] [Server thread/INFO]: Using 4 threads for Netty based IO
-[07:17:43] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[07:17:43] [Server thread/INFO]: Default game type: SURVIVAL
-[07:17:43] [Server thread/INFO]: Generating keypair
-[07:17:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:17:43] [Server thread/INFO]: Using epoll channel type
-[07:17:43] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[07:17:43] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[07:17:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[07:17:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:17:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[07:17:45] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[07:17:46] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[07:17:47] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[07:17:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:17:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:17:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:17:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:17:47] [Server thread/INFO]: Preparing level "world"
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[07:17:47] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[07:17:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:17:49] [Server thread/INFO]: Time elapsed: 1154 ms
-[07:17:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:17:49] [Server thread/INFO]: Time elapsed: 232 ms
-[07:17:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:17:49] [Server thread/INFO]: Time elapsed: 152 ms
-[07:17:49] [Server thread/INFO]: [spark] Starting background profiler...
-[07:17:50] [Server thread/INFO]: Done preparing level "world" (2.370s)
-[07:17:50] [Server thread/INFO]: Running delayed init tasks
-[07:17:50] [Server thread/INFO]: Done (18.284s)! For help, type "help"
-[07:17:50] [Server thread/INFO]: Timings Reset
-[07:18:05] [User Authenticator #0/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[07:18:06] [Server thread/INFO]: ulvm joined the game
-[07:18:06] [Server thread/INFO]: ulvm[/127.43.74.235:38675] logged in with entity id 96 at ([world]-1.054765950894752, 63.0, 42.847149604495385)
-[07:20:57] [Server thread/INFO]: ulvm has made the advancement [Sweet Dreams]
-[07:25:39] [User Authenticator #1/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:25:40] [Server thread/INFO]: moisesesdem21 joined the game
-[07:25:40] [Server thread/INFO]: moisesesdem21[/127.104.144.149:60227] logged in with entity id 975 at ([world]9.5, 63.0, 44.5)
-[07:26:00] [Server thread/INFO]: moisesesdem21 issued server command: /skinsrestorer:skin
-[07:26:11] [Server thread/INFO]: moisesesdem21 issued server command: /skins update
-[07:26:20] [Server thread/INFO]: moisesesdem21 issued server command: /skin moisesdem21
-[07:26:26] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> ./skin vegetta777
-[07:26:29] [Server thread/INFO]: moisesesdem21 issued server command: /skin moisesdem21
-[07:26:39] [Server thread/INFO]: moisesesdem21 issued server command: /skin pachechocarafloja
-[07:27:22] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> namemc
-[07:27:52] [Server thread/INFO]: moisesesdem21 issued server command: /skin PachecoCaraFloja
-[07:28:48] [Server thread/INFO]: ulvm has made the advancement [Stone Age]
-[07:29:18] [Server thread/INFO]: ulvm has made the advancement [Getting an Upgrade]
-[07:31:11] [Server thread/INFO]: moisesesdem21 has made the advancement [Stone Age]
-[07:31:45] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[07:31:45] [Server thread/INFO]: moisesesdem21 left the game
-[07:31:49] [User Authenticator #2/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:31:50] [Server thread/INFO]: moisesesdem21 joined the game
-[07:31:50] [Server thread/INFO]: moisesesdem21[/127.104.144.149:36941] logged in with entity id 1921 at ([world]27.284477774665113, 73.0, 48.182352699313654)
-[07:31:52] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[07:31:52] [Server thread/INFO]: moisesesdem21 left the game
-[07:31:56] [User Authenticator #2/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:31:57] [Server thread/INFO]: moisesesdem21 joined the game
-[07:31:57] [Server thread/INFO]: moisesesdem21[/127.104.144.149:48141] logged in with entity id 1930 at ([world]27.284477774665113, 73.0, 48.182352699313654)
-[07:32:14] [Server thread/INFO]: ulvm has made the advancement [Acquire Hardware]
-[07:32:15] [Server thread/INFO]: moisesesdem21 has made the advancement [Getting an Upgrade]
-[07:34:32] [Server thread/INFO]: ulvm has made the advancement [Monster Hunter]
-[07:34:41] [Server thread/INFO]: moisesesdem21 was shot by Skeleton
-[07:34:43] [Server thread/INFO]: ulvm has made the advancement [Not Today, Thank You]
-[07:35:25] [Server thread/INFO]: ulvm was slain by Zombie
-[07:36:10] [Server thread/INFO]: moisesesdem21 has made the advancement [Acquire Hardware]
-[07:41:12] [Server thread/INFO]: moisesesdem21 has made the advancement [Monster Hunter]
-[07:42:35] [Server thread/INFO]: moisesesdem21 has made the advancement [Sweet Dreams]
-[07:46:57] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[07:46:57] [Server thread/INFO]: moisesesdem21 left the game
-[07:47:05] [User Authenticator #3/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:47:06] [Server thread/INFO]: moisesesdem21 joined the game
-[07:47:06] [Server thread/INFO]: moisesesdem21[/127.104.144.149:60335] logged in with entity id 4113 at ([world]144.39795667196628, 68.0, 82.59586207949329)
-[07:49:23] [Server thread/INFO]: moisesesdem21 froze to death
-[07:49:44] [Server thread/INFO]: Made ulvm a server operator
-[07:49:57] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[07:49:57] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.5463109100712131
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 1.397839731682467
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 2.2689928319316266
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 3.1589526574223328
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.6240556036125042
-[07:58:04] [Server thread/WARN]: Spruce Boat (vehicle of moisesesdem21) moved wrongly! 0.5426686903844598
-[07:58:07] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[07:58:07] [Server thread/INFO]: moisesesdem21 left the game
-[07:58:11] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:58:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f13afb[id=188290df-d3dd-39f3-aea4-3e50b30e122b,name=moisesesdem21,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTc0NTU2NjA3MzE5OCwKICAicHJvZmlsZUlkIiA6ICJlNTI5N2E3M2ZhZjk0ODlkODJiMjVlMTkxMThkODYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYWNoZWNvQ2FyYUZsb2phIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwNmVlMzI4ZTMyZjAxODI3ZjlhMWJlZmYzMWVlOGQxYzU4NDQyOWVkZTUxYjI0M2U1YjY5M2Q4MmU3M2M4ZjkiCiAgICB9CiAgfQp9, signature=pjWREkvRgimpCbeKS85tHKOys9LHRCpLV4mFsKm8uhzeNpQSFvfnohwvPEUcHCo9IJPBqqFpuwfdm73lVqb1xDZ+dHSzLum1dsL1WvffhlJ56hN/Qo5sGYFd95fn73VcfuGQ83xmFPeZik2l9eMxEjBrqSgsnzc7gYVDuHLfCVac4TM1E+VItklCi48hc2APK4B4mEQx1m+PhdQwN3jFNDG8RJ3AcztkLA/5ZUvlCkdbQiFrUgBZTRozvkggBWzm0f6q4VIJbL16/olKQ1B53azVp8tOJAhWV6i8ZjXcQ0sV0QOD0hM/VUhyoQmEFc4SwQ4B4dOzRUF9OzBVcIioFeih0x1FHiXW5qOkBAcPbFzDkYIpVP2+LH+bKMt1RL3dVAv0vXy88Kp5QWMF7yOr/a8Df8Mc3mWDo+ttRd2EnVF0FItZI56j8IFgK6tVveGCDEYtR76Nh2ef9bNYbDefH0KtPO6yBKJnUkJc3jzvaNkRbJ5966HmRrc4a72O5W89wmoxKIMM1Nn66qC5rrvgnYRC89myfC4QejW/e/dV+zQhIG+prf0ueDevVwv6gAwKzAQPCQ69eVqFYCs6rxEAIGLppRIu/W/7eJZZsdRwv6aIQ1RXrUwgAFvlY0vcxVhoC76Pij0Vy5u0qep92gVMMdiqTAjYs0AZaK55AeBOcWU=]]}] lost connection: Disconnected
-[07:58:15] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[07:58:16] [Server thread/INFO]: moisesesdem21 joined the game
-[07:58:16] [Server thread/INFO]: moisesesdem21[/127.104.144.149:47589] logged in with entity id 8500 at ([world]1125.6875, 62.5875, -157.9038809431841)
-[07:59:18] [Server thread/INFO]: ulvm issued server command: /seed
-[08:12:00] [Server thread/INFO]: ulvm has made the advancement [Isn't It Iron Pick]
-[08:15:59] [Server thread/INFO]: ulvm has made the advancement [Diamonds!]
-[08:18:11] [Server thread/INFO]: moisesesdem21 has made the advancement [Isn't It Iron Pick]
-[08:18:38] [Server thread/INFO]: ulvm has made the advancement [Suit Up]
-[08:19:23] [Server thread/INFO]: moisesesdem21 has made the advancement [Suit Up]
-[08:21:18] [Server thread/INFO]: moisesesdem21 was slain by Zombie
-[08:21:30] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[08:21:30] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[08:21:48] [Server thread/INFO]: Villager Villager['Villager'/11193, uuid='5eba4291-841d-403c-9fec-bf9be581a55e', l='ServerLevel[world]', x=1803.30, y=66.50, z=692.59, cpos=[112, 43], tl=21570, v=true] died, message: 'Villager suffocated in a wall'
-[08:25:20] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> 1626 -35 745
-[08:28:16] [Server thread/INFO]: moisesesdem21 has made the advancement [Diamonds!]
-[08:34:58] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[08:34:58] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[08:39:02] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[08:39:02] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[08:45:44] [Server thread/INFO]: ulvm has made the advancement [Cover Me with Diamonds]
-[08:47:41] [Server thread/INFO]: moisesesdem21 has made the advancement [Cover Me with Diamonds]
-[08:51:53] [Server thread/INFO]: ulvm has made the advancement [Ice Bucket Challenge]
-[08:57:46] [Server thread/INFO]: ulvm has made the advancement [We Need to Go Deeper]
-[09:00:05] [Server thread/INFO]: moisesesdem21 has made the advancement [We Need to Go Deeper]
-[09:03:50] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[09:03:50] [Server thread/INFO]: moisesesdem21 left the game
-[09:03:52] [Server thread/INFO]: ulvm lost connection: Disconnected
-[09:03:52] [Server thread/INFO]: ulvm left the game
-[09:04:09] [Server thread/INFO]: Stopping the server
-[09:04:09] [Server thread/INFO]: Stopping server
-[09:04:09] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
-[09:04:09] [Server thread/INFO]: Saving players
-[09:04:09] [Server thread/INFO]: Saving worlds
-[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 29 block chunks, 63 entity chunks, 0 poi chunks in world 'world' in 0.14s
-[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 444 block chunks, 80 entity chunks, 0 poi chunks in world 'world_nether' in 0.17s
-[09:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[09:04:09] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:19:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:20:01] [ServerMain/INFO]: Loaded 1290 recipes
+[03:20:01] [ServerMain/INFO]: Loaded 1399 advancements
+[03:20:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:20:02] [Server thread/INFO]: Loading properties
+[03:20:02] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:20:03] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[03:20:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:20:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:20:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:20:04] [Server thread/INFO]: Default game type: SURVIVAL
+[03:20:04] [Server thread/INFO]: Generating keypair
+[03:20:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:20:04] [Server thread/INFO]: Using epoll channel type
+[03:20:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:20:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:20:05] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[03:20:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:20:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[03:20:07] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:20:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[03:20:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:20:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:20:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:20:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:20:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:20:10] [Server thread/INFO]: Preparing level "world"
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:20:10] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:20:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:20:12] [Server thread/INFO]: Time elapsed: 1760 ms
+[03:20:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:20:13] [Server thread/INFO]: Time elapsed: 313 ms
+[03:20:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:20:13] [Server thread/INFO]: Time elapsed: 278 ms
+[03:20:13] [Server thread/INFO]: [spark] Starting background profiler...
+[03:20:14] [Server thread/INFO]: Done preparing level "world" (3.646s)
+[03:20:14] [Server thread/INFO]: Running delayed init tasks
+[03:20:14] [Server thread/INFO]: Done (24.990s)! For help, type "help"
+[03:20:14] [Server thread/INFO]: Timings Reset
+[03:21:06] [User Authenticator #0/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[03:21:08] [Server thread/INFO]: moisesesdem21 joined the game
+[03:21:08] [Server thread/INFO]: moisesesdem21[/127.205.67.87:37979] logged in with entity id 29 at ([world]1794.1358912375633, 63.0, 687.1349885989249)

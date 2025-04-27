@@ -139,3 +139,18 @@
 [18:47:22] [Async Chat Thread - #4/INFO]: [Not Secure] <ulvm> z
 [18:47:22] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
 [18:47:23] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
+[18:53:34] [User Authenticator #8/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:53:34] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[18:53:34] [Server thread/INFO]: ulvm left the game
+[18:53:35] [Server thread/INFO]: ulvm joined the game
+[18:53:35] [Server thread/INFO]: ulvm[/127.30.118.193:51837] logged in with entity id 26288 at ([world]1880.9950460000025, 67.79389671930073, 684.7896441968447)
+[18:55:42] [User Authenticator #9/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:55:42] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[18:55:42] [Server thread/INFO]: ulvm left the game
+[18:55:44] [Server thread/INFO]: ulvm joined the game
+[18:55:44] [Server thread/INFO]: ulvm[/127.43.74.235:42065] logged in with entity id 26635 at ([world]1804.699999988079, 65.5625, 691.7559796588317)
+[18:56:24] [Server thread/INFO]: ulvm lost connection: Disconnected
+[18:56:24] [Server thread/INFO]: ulvm left the game
+[18:57:01] [User Authenticator #10/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:57:02] [Server thread/INFO]: ulvm joined the game
+[18:57:02] [Server thread/INFO]: ulvm[/127.43.74.235:39675] logged in with entity id 26850 at ([world]1801.7301172496386, 65.0, 692.5339620938292)

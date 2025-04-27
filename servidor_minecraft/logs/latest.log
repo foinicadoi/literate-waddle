@@ -89,3 +89,11 @@
 [17:54:34] [Server thread/INFO]: ulvm joined the game
 [17:54:34] [Server thread/INFO]: ulvm[/127.30.118.193:35255] logged in with entity id 12627 at ([world]1800.1729861805584, 65.0, 691.5619288921108)
 [17:56:42] [Server thread/INFO]: ulvm has made the advancement [Enchanter]
+[17:57:40] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:fortune 3
+[17:57:40] [Server thread/INFO]: [ulvm: Applied enchantment Fortune III to ulvm's item]
+[18:01:25] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:efficiency 5
+[18:01:25] [Server thread/INFO]: [ulvm: Applied enchantment Efficiency V to ulvm's item]
+[18:02:16] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21
+[18:02:16] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
+[18:03:10] [Server thread/INFO]: ulvm has made the advancement [Take Aim]
+[18:03:13] [Server thread/INFO]: moisesesdem21 was burned to a crisp while fighting ulvm

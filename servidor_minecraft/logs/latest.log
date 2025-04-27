@@ -154,3 +154,23 @@
 [18:57:01] [User Authenticator #10/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
 [18:57:02] [Server thread/INFO]: ulvm joined the game
 [18:57:02] [Server thread/INFO]: ulvm[/127.43.74.235:39675] logged in with entity id 26850 at ([world]1801.7301172496386, 65.0, 692.5339620938292)
+[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> zzz
+[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> zz
+[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
+[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
+[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
+[18:57:38] [Async Chat Thread - #6/INFO]: [Not Secure] <ulvm> z
+[18:57:38] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
+[18:57:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ulvm> z
+[18:57:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ulvm> z
+[19:03:26] [Server thread/INFO]: moisesesdem21 lost connection: Timed out
+[19:03:26] [Server thread/INFO]: moisesesdem21 left the game
+[19:05:15] [Server thread/INFO]: ulvm lost connection: Disconnected
+[19:05:15] [Server thread/INFO]: ulvm left the game
+[19:05:39] [User Authenticator #11/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[19:05:40] [Server thread/INFO]: moisesesdem21 joined the game
+[19:05:40] [Server thread/INFO]: moisesesdem21[/127.61.113.147:53695] logged in with entity id 29070 at ([world]1858.4913221278762, 66.66417807723593, 678.8838066327169)
+[19:05:54] [User Authenticator #11/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[19:05:56] [Server thread/INFO]: ulvm joined the game
+[19:05:56] [Server thread/INFO]: ulvm[/127.43.74.235:60883] logged in with entity id 29320 at ([world_nether]-657.3033558543741, 23.0, 97.32656355071653)
+[19:06:00] [Server thread/INFO]: ulvm tried to swim in lava

@@ -100,3 +100,12 @@
 [20:16:47] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:fire_aspect 2
 [20:16:47] [Server thread/INFO]: [ulvm: Applied enchantment Fire Aspect II to ulvm's item]
 [20:17:01] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:unbreaking 5
+[20:17:09] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:unbreaking 3
+[20:17:09] [Server thread/INFO]: [ulvm: Applied enchantment Unbreaking III to ulvm's item]
+[20:17:26] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:looting 3
+[20:17:26] [Server thread/INFO]: [ulvm: Applied enchantment Looting III to ulvm's item]
+[20:17:41] [Server thread/INFO]: ulvm issued server command: /give ulvm minecraft:anvil
+[20:17:41] [Server thread/INFO]: [ulvm: Gave 1 [Anvil] to ulvm]
+[20:26:50] [Server thread/INFO]: ulvm issued server command: /tp @s 1793 64.5 695
+[20:26:50] [Server thread/INFO]: [ulvm: Teleported ulvm to 1793.500000, 64.500000, 695.500000]
+[20:27:07] [Server thread/INFO]: Villager Villager['Fletcher'/8522, uuid='89f14fbc-4cd4-4b0d-a3cb-1b35d15cde6b', l='ServerLevel[world]', x=1816.30, y=64.80, z=684.55, cpos=[113, 42], tl=417036, v=true] died, message: 'Fletcher was slain by Zombie'

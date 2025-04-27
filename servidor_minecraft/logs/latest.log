@@ -97,3 +97,14 @@
 [18:02:16] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
 [18:03:10] [Server thread/INFO]: ulvm has made the advancement [Take Aim]
 [18:03:13] [Server thread/INFO]: moisesesdem21 was burned to a crisp while fighting ulvm
+[18:12:54] [Server thread/INFO]: ulvm lost connection: Timed out
+[18:12:54] [Server thread/INFO]: ulvm left the game
+[18:12:58] [User Authenticator #3/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:12:59] [Server thread/INFO]: ulvm joined the game
+[18:13:00] [Server thread/INFO]: ulvm[/127.30.118.193:37415] logged in with entity id 16174 at ([world]1802.6272440783528, 65.0, 691.3305570688757)
+[18:13:40] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
+[18:13:40] [Server thread/INFO]: moisesesdem21 left the game
+[18:13:56] [Server thread/INFO]: Villager Villager['Cleric'/9525, uuid='5a139d1b-8cf6-4851-b967-01202adf5773', l='ServerLevel[world]', x=1804.62, y=65.88, z=689.98, cpos=[112, 43], tl=396019, v=true] died, message: 'Cleric suffocated in a wall'
+[18:15:00] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[18:15:01] [Server thread/INFO]: moisesesdem21 joined the game
+[18:15:01] [Server thread/INFO]: moisesesdem21[/127.235.29.12:37875] logged in with entity id 16587 at ([world]1639.2763537626927, -38.0, 744.4204619801444)

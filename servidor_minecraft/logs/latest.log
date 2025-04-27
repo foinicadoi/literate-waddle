@@ -121,3 +121,11 @@
 [18:23:40] [Server thread/INFO]: ulvm left the game
 [18:23:41] [Server thread/INFO]: ulvm joined the game
 [18:23:41] [Server thread/INFO]: ulvm[/127.30.118.193:43801] logged in with entity id 18486 at ([world]1795.4618502341364, 64.10571549003181, 694.2187696406339)
+[18:29:17] [User Authenticator #7/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:29:17] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[18:29:17] [Server thread/INFO]: ulvm left the game
+[18:29:19] [Server thread/INFO]: ulvm joined the game
+[18:29:19] [Server thread/INFO]: ulvm[/127.30.118.193:43637] logged in with entity id 19679 at ([world_nether]170.0347315415511, 70.0, -10.608379859047313)
+[18:30:34] [Server thread/INFO]: ulvm has made the advancement [Those Were the Days]
+[18:30:46] [Server thread/INFO]: ulvm has made the advancement [War Pigs]
+[18:33:28] [Server thread/INFO]: ulvm has made the advancement [Hidden in the Depths]

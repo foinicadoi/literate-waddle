@@ -70,3 +70,16 @@
 [19:34:06] [User Authenticator #2/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
 [19:34:07] [Server thread/INFO]: ulvm joined the game
 [19:34:07] [Server thread/INFO]: ulvm[/127.43.74.235:44017] logged in with entity id 1810 at ([world]1800.8417181441116, 65.0, 691.0615389187942)
+[19:39:41] [Server thread/INFO]: ulvm lost connection: Disconnected
+[19:39:41] [Server thread/INFO]: ulvm left the game
+[19:39:58] [User Authenticator #3/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[19:39:59] [Server thread/INFO]: ulvm joined the game
+[19:39:59] [Server thread/INFO]: ulvm[/127.43.74.235:58801] logged in with entity id 2800 at ([world]1638.405249596271, -38.0, 742.5100196658259)
+[19:40:19] [User Authenticator #3/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[19:40:20] [Server thread/INFO]: moisesesdem21 joined the game
+[19:40:20] [Server thread/INFO]: moisesesdem21[/127.61.113.147:50859] logged in with entity id 3140 at ([world]1797.3556208086222, 64.0, 696.0449473394345)
+[19:41:37] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
+[19:41:37] [Server thread/INFO]: moisesesdem21 left the game
+[19:44:41] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[19:44:42] [Server thread/INFO]: moisesesdem21 joined the game
+[19:44:42] [Server thread/INFO]: moisesesdem21[/127.61.113.147:60319] logged in with entity id 3768 at ([world]1814.5885033612603, 66.0, 700.7211982904863)

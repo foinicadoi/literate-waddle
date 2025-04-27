@@ -1,177 +1,72 @@
-[17:06:10] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[17:06:10] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[17:06:11] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[17:06:11] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[17:06:11] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[19:26:31] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[19:26:31] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[19:26:32] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:26:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[19:26:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.6.2)
-[17:06:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:06:18] [ServerMain/INFO]: Loaded 1290 recipes
-[17:06:18] [ServerMain/INFO]: Loaded 1399 advancements
-[17:06:18] [Server thread/INFO]: Starting minecraft server version 1.21
-[17:06:18] [Server thread/INFO]: Loading properties
-[17:06:18] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[17:06:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[17:06:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:06:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:06:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[17:06:20] [Server thread/INFO]: Default game type: SURVIVAL
-[17:06:20] [Server thread/INFO]: Generating keypair
-[17:06:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:06:20] [Server thread/INFO]: Using epoll channel type
-[17:06:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[17:06:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[17:06:20] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[17:06:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:06:20] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[17:06:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[17:06:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[17:06:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[17:06:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:06:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:06:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:06:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:06:23] [Server thread/INFO]: Preparing level "world"
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[17:06:24] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[17:06:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:06:25] [Server thread/INFO]: Time elapsed: 1226 ms
-[17:06:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:06:25] [Server thread/INFO]: Time elapsed: 274 ms
-[17:06:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:06:26] [Server thread/INFO]: Time elapsed: 153 ms
-[17:06:26] [Server thread/INFO]: [spark] Starting background profiler...
-[17:06:26] [Server thread/INFO]: Done preparing level "world" (2.630s)
-[17:06:26] [Server thread/INFO]: Running delayed init tasks
-[17:06:26] [Server thread/INFO]: Done (16.751s)! For help, type "help"
-[17:06:26] [Server thread/INFO]: Timings Reset
-[17:06:34] [User Authenticator #0/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[17:06:36] [Server thread/INFO]: ulvm joined the game
-[17:06:36] [User Authenticator #0/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[17:06:36] [Server thread/INFO]: ulvm[/127.30.118.193:50125] logged in with entity id 27 at ([world]1642.300000011921, -38.0, 744.3000000119209)
-[17:06:37] [Server thread/INFO]: moisesesdem21 joined the game
-[17:06:37] [Server thread/INFO]: moisesesdem21[/127.235.29.12:36599] logged in with entity id 50 at ([world]1787.5443002709997, 63.0, 686.7175521322513)
-[17:26:50] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21
-[17:26:50] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
-[17:32:08] [Server thread/INFO]: moisesesdem21 has made the advancement [Ice Bucket Challenge]
-[17:35:03] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[17:35:03] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> zz
-[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> zz
-[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
-[17:40:54] [Server thread/INFO]: Villager Villager['Fletcher'/9475, uuid='f30bd965-e6ab-4b6a-9588-8e2f06382852', l='ServerLevel[world]', x=1815.69, y=64.00, z=683.31, cpos=[113, 42], tl=249677, v=true] died, message: 'Fletcher was blown up by Creeper'
-[17:43:49] [Server thread/INFO]: ulvm lost connection: Disconnected
-[17:43:49] [Server thread/INFO]: ulvm left the game
-[17:44:19] [User Authenticator #1/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[17:44:20] [Server thread/INFO]: ulvm joined the game
-[17:44:20] [Server thread/INFO]: ulvm[/127.30.118.193:40735] logged in with entity id 10574 at ([world]1803.925000011921, 65.875, 693.009433550435)
-[17:47:20] [Server thread/INFO]: ulvm issued server command: /seed
-[17:52:27] [Server thread/INFO]: ulvm issued server command: /give ulvm minecraft:bookshelf 7
-[17:52:27] [Server thread/INFO]: [ulvm: Gave 7 [Bookshelf] to ulvm]
-[17:54:33] [User Authenticator #2/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[17:54:33] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[17:54:33] [Server thread/INFO]: ulvm left the game
-[17:54:34] [Server thread/INFO]: ulvm joined the game
-[17:54:34] [Server thread/INFO]: ulvm[/127.30.118.193:35255] logged in with entity id 12627 at ([world]1800.1729861805584, 65.0, 691.5619288921108)
-[17:56:42] [Server thread/INFO]: ulvm has made the advancement [Enchanter]
-[17:57:40] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:fortune 3
-[17:57:40] [Server thread/INFO]: [ulvm: Applied enchantment Fortune III to ulvm's item]
-[18:01:25] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:efficiency 5
-[18:01:25] [Server thread/INFO]: [ulvm: Applied enchantment Efficiency V to ulvm's item]
-[18:02:16] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21
-[18:02:16] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
-[18:03:10] [Server thread/INFO]: ulvm has made the advancement [Take Aim]
-[18:03:13] [Server thread/INFO]: moisesesdem21 was burned to a crisp while fighting ulvm
-[18:12:54] [Server thread/INFO]: ulvm lost connection: Timed out
-[18:12:54] [Server thread/INFO]: ulvm left the game
-[18:12:58] [User Authenticator #3/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:12:59] [Server thread/INFO]: ulvm joined the game
-[18:13:00] [Server thread/INFO]: ulvm[/127.30.118.193:37415] logged in with entity id 16174 at ([world]1802.6272440783528, 65.0, 691.3305570688757)
-[18:13:40] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
-[18:13:40] [Server thread/INFO]: moisesesdem21 left the game
-[18:13:56] [Server thread/INFO]: Villager Villager['Cleric'/9525, uuid='5a139d1b-8cf6-4851-b967-01202adf5773', l='ServerLevel[world]', x=1804.62, y=65.88, z=689.98, cpos=[112, 43], tl=396019, v=true] died, message: 'Cleric suffocated in a wall'
-[18:15:00] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[18:15:01] [Server thread/INFO]: moisesesdem21 joined the game
-[18:15:01] [Server thread/INFO]: moisesesdem21[/127.235.29.12:37875] logged in with entity id 16587 at ([world]1639.2763537626927, -38.0, 744.4204619801444)
-[18:18:10] [User Authenticator #5/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:18:10] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[18:18:10] [Server thread/INFO]: ulvm left the game
-[18:18:11] [Server thread/INFO]: ulvm joined the game
-[18:18:11] [Server thread/INFO]: ulvm[/127.30.118.193:51281] logged in with entity id 17362 at ([world]1564.3578176925344, 71.0, 760.7293936285936)
-[18:23:04] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
-[18:23:04] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
-[18:23:24] [Server thread/INFO]: moisesesdem21 has made the advancement [Take Aim]
-[18:23:40] [User Authenticator #6/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:23:40] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[18:23:40] [Server thread/INFO]: ulvm left the game
-[18:23:41] [Server thread/INFO]: ulvm joined the game
-[18:23:41] [Server thread/INFO]: ulvm[/127.30.118.193:43801] logged in with entity id 18486 at ([world]1795.4618502341364, 64.10571549003181, 694.2187696406339)
-[18:29:17] [User Authenticator #7/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:29:17] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[18:29:17] [Server thread/INFO]: ulvm left the game
-[18:29:19] [Server thread/INFO]: ulvm joined the game
-[18:29:19] [Server thread/INFO]: ulvm[/127.30.118.193:43637] logged in with entity id 19679 at ([world_nether]170.0347315415511, 70.0, -10.608379859047313)
-[18:30:34] [Server thread/INFO]: ulvm has made the advancement [Those Were the Days]
-[18:30:46] [Server thread/INFO]: ulvm has made the advancement [War Pigs]
-[18:33:28] [Server thread/INFO]: ulvm has made the advancement [Hidden in the Depths]
-[18:39:16] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:looting 3
-[18:39:16] [Server thread/INFO]: [ulvm: Applied enchantment Looting III to ulvm's item]
-[18:47:21] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> zz
-[18:47:21] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
-[18:47:22] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
-[18:47:22] [Async Chat Thread - #4/INFO]: [Not Secure] <ulvm> z
-[18:47:22] [Async Chat Thread - #4/INFO]: [Not Secure] <ulvm> z
-[18:47:22] [Async Chat Thread - #4/INFO]: [Not Secure] <ulvm> z
-[18:47:22] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
-[18:47:23] [Async Chat Thread - #2/INFO]: [Not Secure] <ulvm> z
-[18:53:34] [User Authenticator #8/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:53:34] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[18:53:34] [Server thread/INFO]: ulvm left the game
-[18:53:35] [Server thread/INFO]: ulvm joined the game
-[18:53:35] [Server thread/INFO]: ulvm[/127.30.118.193:51837] logged in with entity id 26288 at ([world]1880.9950460000025, 67.79389671930073, 684.7896441968447)
-[18:55:42] [User Authenticator #9/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:55:42] [Server thread/INFO]: ulvm lost connection: You logged in from another location
-[18:55:42] [Server thread/INFO]: ulvm left the game
-[18:55:44] [Server thread/INFO]: ulvm joined the game
-[18:55:44] [Server thread/INFO]: ulvm[/127.43.74.235:42065] logged in with entity id 26635 at ([world]1804.699999988079, 65.5625, 691.7559796588317)
-[18:56:24] [Server thread/INFO]: ulvm lost connection: Disconnected
-[18:56:24] [Server thread/INFO]: ulvm left the game
-[18:57:01] [User Authenticator #10/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[18:57:02] [Server thread/INFO]: ulvm joined the game
-[18:57:02] [Server thread/INFO]: ulvm[/127.43.74.235:39675] logged in with entity id 26850 at ([world]1801.7301172496386, 65.0, 692.5339620938292)
-[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> zzz
-[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> zz
-[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
-[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
-[18:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
-[18:57:38] [Async Chat Thread - #6/INFO]: [Not Secure] <ulvm> z
-[18:57:38] [Async Chat Thread - #5/INFO]: [Not Secure] <ulvm> z
-[18:57:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ulvm> z
-[18:57:38] [Async Chat Thread - #7/INFO]: [Not Secure] <ulvm> z
-[19:03:26] [Server thread/INFO]: moisesesdem21 lost connection: Timed out
-[19:03:26] [Server thread/INFO]: moisesesdem21 left the game
-[19:05:15] [Server thread/INFO]: ulvm lost connection: Disconnected
-[19:05:15] [Server thread/INFO]: ulvm left the game
-[19:05:39] [User Authenticator #11/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
-[19:05:40] [Server thread/INFO]: moisesesdem21 joined the game
-[19:05:40] [Server thread/INFO]: moisesesdem21[/127.61.113.147:53695] logged in with entity id 29070 at ([world]1858.4913221278762, 66.66417807723593, 678.8838066327169)
-[19:05:54] [User Authenticator #11/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
-[19:05:56] [Server thread/INFO]: ulvm joined the game
-[19:05:56] [Server thread/INFO]: ulvm[/127.43.74.235:60883] logged in with entity id 29320 at ([world_nether]-657.3033558543741, 23.0, 97.32656355071653)
-[19:06:00] [Server thread/INFO]: ulvm tried to swim in lava
-[19:14:24] [Server thread/INFO]: moisesesdem21 has made the advancement [Ol' Betsy]
+[19:26:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:26:42] [ServerMain/INFO]: Loaded 1290 recipes
+[19:26:42] [ServerMain/INFO]: Loaded 1399 advancements
+[19:26:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:26:42] [Server thread/INFO]: Loading properties
+[19:26:42] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[19:26:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:26:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:26:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:26:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[19:26:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:26:45] [Server thread/INFO]: Generating keypair
+[19:26:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:26:45] [Server thread/INFO]: Using epoll channel type
+[19:26:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:26:45] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:26:45] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[19:26:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:26:45] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[19:26:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:26:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[19:26:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:26:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:26:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:26:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:26:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:26:50] [Server thread/INFO]: Preparing level "world"
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:26:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:26:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:26:52] [Server thread/INFO]: Time elapsed: 1530 ms
+[19:26:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:26:53] [Server thread/INFO]: Time elapsed: 412 ms
+[19:26:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:26:53] [Server thread/INFO]: Time elapsed: 184 ms
+[19:26:53] [Server thread/INFO]: [spark] Starting background profiler...
+[19:26:53] [Server thread/INFO]: Done preparing level "world" (3.287s)
+[19:26:53] [Server thread/INFO]: Running delayed init tasks
+[19:26:53] [Server thread/INFO]: Done (23.313s)! For help, type "help"
+[19:26:53] [Server thread/INFO]: Timings Reset
+[19:27:00] [User Authenticator #1/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
+[19:27:00] [User Authenticator #0/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[19:27:01] [Server thread/INFO]: moisesesdem21 joined the game
+[19:27:02] [Server thread/INFO]: moisesesdem21[/127.61.113.147:52065] logged in with entity id 27 at ([world]1802.7600609795377, 65.0, 691.7655832489365)
+[19:27:02] [Server thread/INFO]: ulvm joined the game
+[19:27:02] [Server thread/INFO]: ulvm[/127.43.74.235:40459] logged in with entity id 28 at ([world]1640.879233193217, -38.0, 742.3000000119209)
+[19:30:52] [Server thread/INFO]: ulvm issued server command: /give ulvm minecraft:iron_pickaxe
+[19:30:52] [Server thread/INFO]: [ulvm: Gave 1 [Iron Pickaxe] to ulvm]
+[19:30:56] [Server thread/INFO]: moisesesdem21 lost connection: Disconnected
+[19:30:56] [Server thread/INFO]: moisesesdem21 left the game
+[19:34:00] [Server thread/INFO]: ulvm lost connection: Disconnected
+[19:34:00] [Server thread/INFO]: ulvm left the game
+[19:34:06] [User Authenticator #2/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[19:34:07] [Server thread/INFO]: ulvm joined the game
+[19:34:07] [Server thread/INFO]: ulvm[/127.43.74.235:44017] logged in with entity id 1810 at ([world]1800.8417181441116, 65.0, 691.0615389187942)

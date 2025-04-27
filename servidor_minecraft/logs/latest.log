@@ -58,3 +58,4 @@
 [16:12:10] [User Authenticator #0/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
 [16:12:11] [Server thread/INFO]: ulvm joined the game
 [16:12:12] [Server thread/INFO]: ulvm[/127.30.118.193:42625] logged in with entity id 27 at ([world]1641.5379258358093, -38.0, 743.3955480916468)
+[16:23:26] [Server thread/INFO]: Villager Villager['Librarian'/232, uuid='0c13abe7-ebcc-4616-884e-e06a324f0beb', l='ServerLevel[world]', x=1803.60, y=65.00, z=690.37, cpos=[112, 43], tl=275226, v=true] died, message: 'Librarian was slain by ulvm'

@@ -80,3 +80,12 @@
 [17:44:19] [User Authenticator #1/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
 [17:44:20] [Server thread/INFO]: ulvm joined the game
 [17:44:20] [Server thread/INFO]: ulvm[/127.30.118.193:40735] logged in with entity id 10574 at ([world]1803.925000011921, 65.875, 693.009433550435)
+[17:47:20] [Server thread/INFO]: ulvm issued server command: /seed
+[17:52:27] [Server thread/INFO]: ulvm issued server command: /give ulvm minecraft:bookshelf 7
+[17:52:27] [Server thread/INFO]: [ulvm: Gave 7 [Bookshelf] to ulvm]
+[17:54:33] [User Authenticator #2/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[17:54:33] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[17:54:33] [Server thread/INFO]: ulvm left the game
+[17:54:34] [Server thread/INFO]: ulvm joined the game
+[17:54:34] [Server thread/INFO]: ulvm[/127.30.118.193:35255] logged in with entity id 12627 at ([world]1800.1729861805584, 65.0, 691.5619288921108)
+[17:56:42] [Server thread/INFO]: ulvm has made the advancement [Enchanter]

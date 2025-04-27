@@ -66,3 +66,17 @@
 [17:32:08] [Server thread/INFO]: moisesesdem21 has made the advancement [Ice Bucket Challenge]
 [17:35:03] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
 [17:35:03] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
+[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> zz
+[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> zz
+[17:38:39] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:38:40] [Async Chat Thread - #0/INFO]: [Not Secure] <ulvm> z
+[17:40:54] [Server thread/INFO]: Villager Villager['Fletcher'/9475, uuid='f30bd965-e6ab-4b6a-9588-8e2f06382852', l='ServerLevel[world]', x=1815.69, y=64.00, z=683.31, cpos=[113, 42], tl=249677, v=true] died, message: 'Fletcher was blown up by Creeper'
+[17:43:49] [Server thread/INFO]: ulvm lost connection: Disconnected
+[17:43:49] [Server thread/INFO]: ulvm left the game
+[17:44:19] [User Authenticator #1/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[17:44:20] [Server thread/INFO]: ulvm joined the game
+[17:44:20] [Server thread/INFO]: ulvm[/127.30.118.193:40735] logged in with entity id 10574 at ([world]1803.925000011921, 65.875, 693.009433550435)

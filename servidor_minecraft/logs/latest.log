@@ -61,3 +61,8 @@
 [17:06:36] [Server thread/INFO]: ulvm[/127.30.118.193:50125] logged in with entity id 27 at ([world]1642.300000011921, -38.0, 744.3000000119209)
 [17:06:37] [Server thread/INFO]: moisesesdem21 joined the game
 [17:06:37] [Server thread/INFO]: moisesesdem21[/127.235.29.12:36599] logged in with entity id 50 at ([world]1787.5443002709997, 63.0, 686.7175521322513)
+[17:26:50] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21
+[17:26:50] [Server thread/INFO]: [ulvm: Teleported ulvm to moisesesdem21]
+[17:32:08] [Server thread/INFO]: moisesesdem21 has made the advancement [Ice Bucket Challenge]
+[17:35:03] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
+[17:35:03] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]

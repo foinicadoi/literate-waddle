@@ -618,7 +618,8 @@
       "minecraft:zombie": "2025-04-25 08:16:18 +0000",
       "minecraft:creeper": "2025-04-26 05:12:22 +0000",
       "minecraft:drowned": "2025-04-26 04:15:36 +0000",
-      "minecraft:zombie_villager": "2025-04-26 03:36:41 +0000"
+      "minecraft:zombie_villager": "2025-04-26 03:36:41 +0000",
+      "minecraft:hoglin": "2025-04-27 17:29:06 +0000"
     },
     "done": false
   },
@@ -1873,6 +1874,42 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-27 17:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 17:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-27 17:27:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-27 17:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-27 17:29:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-27 17:29:08 +0000"
     },
     "done": true
   },

@@ -83,3 +83,7 @@
 [19:44:41] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
 [19:44:42] [Server thread/INFO]: moisesesdem21 joined the game
 [19:44:42] [Server thread/INFO]: moisesesdem21[/127.61.113.147:60319] logged in with entity id 3768 at ([world]1814.5885033612603, 66.0, 700.7211982904863)
+[19:49:27] [Server thread/INFO]: Villager Villager['Villager'/3012, uuid='e95569b7-f957-4a90-b8e7-91bfe62ef820', l='ServerLevel[world]', x=1821.70, y=64.00, z=683.30, cpos=[113, 42], tl=373848, v=true] died, message: 'Villager was slain by Zombie'
+[19:53:03] [Async Chat Thread - #0/INFO]: [Not Secure] <moisesesdem21> ´tp juye
+[19:53:54] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
+[19:53:54] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]

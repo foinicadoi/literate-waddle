@@ -90,3 +90,13 @@
 [19:57:17] [Server thread/INFO]: moisesesdem21 has made the advancement [Enchanter]
 [20:05:15] [Server thread/INFO]: moisesesdem21 lost connection: Timed out
 [20:05:15] [Server thread/INFO]: moisesesdem21 left the game
+[20:09:21] [Server thread/INFO]: ulvm lost connection: Timed out
+[20:09:21] [Server thread/INFO]: ulvm left the game
+[20:09:54] [User Authenticator #5/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[20:09:56] [Server thread/INFO]: ulvm joined the game
+[20:09:56] [Server thread/INFO]: ulvm[/127.43.74.235:35011] logged in with entity id 8354 at ([world]1639.6156895244062, -38.0, 742.3000000119209)
+[20:16:16] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:efficiency 5
+[20:16:16] [Server thread/INFO]: [ulvm: Applied enchantment Efficiency V to ulvm's item]
+[20:16:47] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:fire_aspect 2
+[20:16:47] [Server thread/INFO]: [ulvm: Applied enchantment Fire Aspect II to ulvm's item]
+[20:17:01] [Server thread/INFO]: ulvm issued server command: /enchant ulvm minecraft:unbreaking 5

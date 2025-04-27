@@ -108,3 +108,16 @@
 [18:15:00] [User Authenticator #4/INFO]: UUID of player moisesesdem21 is 188290df-d3dd-39f3-aea4-3e50b30e122b
 [18:15:01] [Server thread/INFO]: moisesesdem21 joined the game
 [18:15:01] [Server thread/INFO]: moisesesdem21[/127.235.29.12:37875] logged in with entity id 16587 at ([world]1639.2763537626927, -38.0, 744.4204619801444)
+[18:18:10] [User Authenticator #5/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:18:10] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[18:18:10] [Server thread/INFO]: ulvm left the game
+[18:18:11] [Server thread/INFO]: ulvm joined the game
+[18:18:11] [Server thread/INFO]: ulvm[/127.30.118.193:51281] logged in with entity id 17362 at ([world]1564.3578176925344, 71.0, 760.7293936285936)
+[18:23:04] [Server thread/INFO]: ulvm issued server command: /tp moisesesdem21 ulvm
+[18:23:04] [Server thread/INFO]: [ulvm: Teleported moisesesdem21 to ulvm]
+[18:23:24] [Server thread/INFO]: moisesesdem21 has made the advancement [Take Aim]
+[18:23:40] [User Authenticator #6/INFO]: UUID of player ulvm is fd000250-2bd2-3537-874e-a1ecfa06dd95
+[18:23:40] [Server thread/INFO]: ulvm lost connection: You logged in from another location
+[18:23:40] [Server thread/INFO]: ulvm left the game
+[18:23:41] [Server thread/INFO]: ulvm joined the game
+[18:23:41] [Server thread/INFO]: ulvm[/127.30.118.193:43801] logged in with entity id 18486 at ([world]1795.4618502341364, 64.10571549003181, 694.2187696406339)
